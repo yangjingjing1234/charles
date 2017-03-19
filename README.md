@@ -20,7 +20,7 @@ charles 抓包工具的使用，破解方法，基本配置
 >  最重要的配置完重新开启一下
 >
 
-####大致流程
+#### 大致流程
 
 <img src="https://github.com/yangjingjing1234/charles/blob/master/1.png">
 <img src="https://github.com/yangjingjing1234/charles/blob/master/2.png">
