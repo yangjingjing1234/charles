@@ -5,7 +5,7 @@ charles 抓包工具的使用，破解方法，基本配置
 
 ### [charles官网](https://www.charlesproxy.com/latest-release/download.do )下载安装  4.0.2版本
 
-### [破解文件下载](http://blog.csdn.net/tech4j/article/details/53509329)  4.0.2   64位下载安装之后，在安装路径中的lib文件夹并替换其中的同名文件，替换相应的破解版charles.jar
+### 4.0.2 破解文件下载    64位下载安装之后，在安装路径中的lib文件夹并替换其中的同名文件，替换相应的破解版charles.jar
 
 ###
 >  先按装http包的设置，让手机通过charles代理上网。
@@ -22,4 +22,9 @@ charles 抓包工具的使用，破解方法，基本配置
 
 ####大致流程
 
-
+<img src="https://github.com/yangjingjing1234/charles/blob/master/1.png">
+<img src="https://github.com/yangjingjing1234/charles/blob/master/2.png">
+<img src="https://github.com/yangjingjing1234/charles/blob/master/3.png">
+<img src="https://github.com/yangjingjing1234/charles/blob/master/4.png">
+<img src="https://github.com/yangjingjing1234/charles/blob/master/5.png">
+<img src="https://github.com/yangjingjing1234/charles/blob/master/6.png">
