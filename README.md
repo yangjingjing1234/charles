@@ -12,8 +12,14 @@ charles 抓包工具的使用，破解方法，基本配置
 > 
 >  http://www.jianshu.com/p/655600177673 使用教程，配置代理，下载证书
 > 
->  然后手机上访问地址： http://www.charlesproxy.com/getssl/
-> 
->  这样手机会跳到charles根证书的安装页面。一路点安装
-> 
+>  charles可以抓https的包
+>  pc上安装证书就行
+>
+>  手机上访问地址： http://www.charlesproxy.com/getssl/ 这样手机会跳到charles根证书的安装页面。下载下来就行了 
+>
 >  最重要的配置完重新开启一下
+>
+
+####大致流程
+
+
